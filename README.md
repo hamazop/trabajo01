@@ -13,8 +13,8 @@
 ## Requisitos previos
 
 1. Clonar el repositorio
-2. Instalar las dependencias(Librerias): pip install -r requirements.txt
-3. Correr todo el archivo: Trabajo1Punto1.ipynb
-4. Correr el archivo: Trabajo1Punto2.ipynb
+2. Instalar las dependencias(Librerias): ```pip install -r requirements.txt ```
+3. Correr todo el archivo: ```Trabajo1Punto1.ipynb```
+4. Correr el archivo: ```Trabajo1Punto2.ipynb```
 
 
