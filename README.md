@@ -26,13 +26,8 @@ Se genera una representación animada (GIF o video) del proceso de optimización
 
 2. Optimización de una ruta en México
 
-Se optimiza una ruta para recorrer los 32 estados de México minimizando el uso de combustible.
+Se optimiza una ruta para recorrer los 32 estados de México minimizando el uso de combustible, tulizando los métodos heurísticos, colonia de hormigas y algoritmos genéticos
 
-Se utilizan los siguientes métodos heurísticos:
-
-Colonia de hormigas
-
-Algoritmos genéticos
 ## Información adicional
 
 [Reporte técnico.](https://fern-coyote-4ae.notion.site/Reporte-T-cnico-Trabajo-01-14e6e16e98e2805487e9e1a35da58c49?pvs=73)
