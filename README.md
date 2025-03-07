@@ -8,21 +8,15 @@
   
 # Descripción del problema
 
-##Optimización de Funciones y Rutas con Métodos Heurísticos
+## Optimización de Funciones y Rutas con Métodos Heurísticos
 
 Este repositorio contiene implementaciones de diversos métodos de optimización para funciones de prueba y la optimización de una ruta a través de los 32 estados de México, utilizando técnicas de optimización heurística.
 
-Objetivos
-
 1. Optimización de funciones de prueba
 
-Se seleccionan dos funciones de prueba.
+Se seleccionan dos funciones de prueba, rosenbrock y rastrigin
 
-Se optimizan en 2 y 3 dimensiones utilizando un método de descenso por gradiente con condición inicial aleatoria.
-
-Se optimizan en 2 y 3 dimensiones utilizando los siguientes métodos heurísticos:
-
-Se genera una representación animada (GIF o video) del proceso de optimización tanto con descenso por gradiente como con un método heurístico.
+Se optimizan en 2 y 3 dimensiones utilizando un método de descenso por gradiente con condición inicial aleatoria y también genera una representación animada (GIF) del proceso de optimización tanto con descenso por gradiente como con un método heurístico.
 
 2. Optimización de una ruta en México
 
