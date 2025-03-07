@@ -20,7 +20,7 @@ Se optimizan en 2 y 3 dimensiones utilizando un método de descenso por gradient
 
 2. Optimización de una ruta en México
 
-Se optimiza una ruta para recorrer los 32 estados de México minimizando el uso de combustible, tulizando los métodos heurísticos, colonia de hormigas y algoritmos genéticos
+Se optimiza una ruta para recorrer los 32 estados de México minimizando el uso de combustible, utilizando los métodos heurísticos, colonia de hormigas y algoritmos genéticos, además se genera archivos GIF en html para su visualización
 
 ## Información adicional
 
